@@ -1,4 +1,5 @@
-package Model;
+//lelder
+package spellingBee.model;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -67,7 +68,7 @@ public class SpellingBeeContent {
                     sevenLetterWords.add(line);
                 }
             }
-            //System.out.println(sevenLetterWords);
+            System.out.println(sevenLetterWords);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
@@ -80,7 +81,7 @@ public class SpellingBeeContent {
         for (int i = 0; i < baseString.length(); i++) {
             toReturn.add(baseString.charAt(i));
         }
-        //System.out.println(toReturn);
+        System.out.println(toReturn);
         setAllowedCharacters(toReturn);
         return toReturn;
     }

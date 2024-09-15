@@ -1,12 +1,13 @@
-package Model;
+//lelder
+package spellingBee.model;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashSet;
 
-import View.PastWordsPanel;
-import View.ScoringBar;
+import spellingBee.view.PastWordsPanel;
+import spellingBee.view.ScoringBar;
 
 public class PastWords {
     // instance variable

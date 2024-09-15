@@ -1,4 +1,4 @@
-package Controller;
+package spellingBee.controller;
 
 import java.awt.Graphics;
 import java.util.ArrayList;

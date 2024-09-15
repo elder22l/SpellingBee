@@ -1,9 +1,9 @@
-package Controller;
+package spellingBee.controller;
 
-import Model.PastWords;
-import Model.SpellingBeeContent;
-import View.PastWordsPanel;
-import View.ScoringBar;
+import spellingBee.model.PastWords;
+import spellingBee.model.SpellingBeeContent;
+import spellingBee.view.PastWordsPanel;
+import spellingBee.view.ScoringBar;
 
 import java.awt.Color;
 import java.awt.BorderLayout;
