@@ -1,1 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UVfvDDvZ)
+
+The full project was a class assingment with four students. Two made a game clone of Wordle; another classmate and I made spelling bee. 
+I worked on the model and view packeges. This project has no push and merge history because of issues importing it 
+from my college's github team, but we used github to commit and collaborate throughout the project. 
+
+Specific coding credits (i.e. which classes I worked on) can be found at the top of each class. lelder is me. 
+
